@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/harishwaves/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harishwaves/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -45,4 +46,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harishwaves/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/harishwaves/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/harishwaves/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/harishwaves/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/harishwaves/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
