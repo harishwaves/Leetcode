@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harishwaves/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/harishwaves/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harishwaves/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -69,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harishwaves/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/harishwaves/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
