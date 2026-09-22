@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/harishwaves/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harishwaves/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/harishwaves/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Geometry
@@ -79,4 +80,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/harishwaves/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/harishwaves/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/harishwaves/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
