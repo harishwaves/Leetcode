@@ -4,14 +4,21 @@ public:
         int n = s.length();
         if(s[0]==')') return 0;
         if(s[n-1]=='(') return 0;
-        int star=0,open=0,close=0;
+        stack<int> star,open;
         for(int i=0;i<n;i++){
-            if(s[i]=='(' || s[i]=='*') open++;
-            else open--;
-            if(s[n-i-1]==')' || s[n-i-1]=='*') close++;
-            else close--;
-            if(open<0 || close<0) return 0;
+            if(s[i]=='(') open.push(i);
+            else if(s[i]=='*') star.push(i);
+            else{
+                if(!open.empty()) open.pop();
+                else if(!star.empty()) star.pop();
+                else return 0;
+            }
         }
-        return 1;
+        while(!star.empty() && !open.empty()){
+            if(open.top()>star.top()) return 0;
+            star.pop();
+            open.pop();
+        }
+        return open.empty();
     }
 };
