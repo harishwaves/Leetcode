@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/harishwaves/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harishwaves/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/harishwaves/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/harishwaves/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/harishwaves/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/harishwaves/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harishwaves/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -148,4 +149,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harishwaves/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/harishwaves/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/harishwaves/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
