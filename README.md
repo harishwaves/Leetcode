@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harishwaves/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harishwaves/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harishwaves/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/harishwaves/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harishwaves/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harishwaves/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harishwaves/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/harishwaves/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,11 +76,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harishwaves/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harishwaves/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harishwaves/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/harishwaves/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/harishwaves/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harishwaves/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/harishwaves/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,4 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/harishwaves/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/harishwaves/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
