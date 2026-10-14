@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1401-circle-and-rectangle-overlapping](https://github.com/harishwaves/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harishwaves/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harishwaves/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/harishwaves/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harishwaves/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harishwaves/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harishwaves/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/harishwaves/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harishwaves/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
