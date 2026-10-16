@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/harishwaves/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harishwaves/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harishwaves/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harishwaves/Leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harishwaves/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harishwaves/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harishwaves/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harishwaves/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harishwaves/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harishwaves/Leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,8 +190,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harishwaves/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harishwaves/Leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harishwaves/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harishwaves/Leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
