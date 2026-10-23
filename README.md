@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/harishwaves/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0547-number-of-provinces](https://github.com/harishwaves/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/harishwaves/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harishwaves/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -245,4 +247,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/harishwaves/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/harishwaves/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/harishwaves/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
