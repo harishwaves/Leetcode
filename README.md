@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harishwaves/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harishwaves/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harishwaves/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/harishwaves/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/harishwaves/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/harishwaves/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harishwaves/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harishwaves/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/harishwaves/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
