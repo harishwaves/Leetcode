@@ -10,8 +10,6 @@ public:
                 ans = max(ans,mxinc);
             }
             else mxinc = 1;
-        }
-        for(int i=0;i<n-1;i++){
             if(nums[i+1]<nums[i]){
                 mxdec++;
                 ans = max(ans,mxdec);
