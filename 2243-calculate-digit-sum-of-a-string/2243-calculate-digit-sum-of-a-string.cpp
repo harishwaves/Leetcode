@@ -5,11 +5,8 @@ public:
             int n = s.length();
             string sumstr = "";
             for(int i=0;i<n;i+=k){
-                int sum = 0;
-                for(int j=i;j<i+k && j<n;j++){
-                    sum += s[j] - '0';
-                }
-                sumstr += to_string(sum);
+                string ss = s.substr(i,min(k,abs(n-i)));
+                sumstr += to_string(accumulate(ss.begin(),ss.end(),0,[](int sum,char d){ return sum + d - '0';}));
             }
             s = sumstr;
         }
