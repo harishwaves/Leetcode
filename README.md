@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harishwaves/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harishwaves/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/harishwaves/Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/harishwaves/Leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/harishwaves/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harishwaves/Leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/harishwaves/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
